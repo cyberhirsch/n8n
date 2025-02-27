@@ -40,8 +40,8 @@ Engineering world, handles large amounts of data safely.
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/n8n-io/self-hosted-ai-starter-kit.git
-cd self-hosted-ai-starter-kit
+git clone https://github.com/cyberhirsch/n8n.git
+cd n8n
 ```
 
 ### Running n8n using Docker Compose
@@ -49,8 +49,8 @@ cd self-hosted-ai-starter-kit
 #### For Nvidia GPU users
 
 ```
-git clone https://github.com/n8n-io/self-hosted-ai-starter-kit.git
-cd self-hosted-ai-starter-kit
+git clone https://github.com/cyberhirsch/n8n.git
+cd n8n
 docker compose --profile gpu-nvidia up
 ```
 
